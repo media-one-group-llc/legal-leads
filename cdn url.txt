@@ -1,2 +1,0 @@
-font awesome
-https://www.jsdelivr.com/package/npm/@fortawesome/fontawesome-free
